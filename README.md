@@ -57,7 +57,7 @@ You can also type `python pyxel/examples/00_hello_world.py` and press enter. Thi
 
 Now on to step 2...
 
-### (Step 2) Install Pyxel
+### (Step 3) Install Pyxel
 
 Pyxel is just a regular python package. You have all written 'import random' before to load the 'randint' function. 'random' is a python package that comes pre-installed when you install python. Similarly 'pyxel' is a python package - it just needs to be installed first before you can import it.
 
@@ -67,13 +67,15 @@ In the terminal type:
 
 This should install pyxel. `pip` is short for 'package installer for python'. Suprise suprise: it installs packages. It is installed automatically when you install python, so you should already have the `pip` program.
 
-### (Step 3) Run Pyxel
+### (Step 4) Run Pyxel
 
 You should now be able to run any of the examples in the `examples` folder. Open an example file in VSCode and hit the green run button in the top right.
 
 You can also run the editor by opening the file `pyxel/editor/__init__.py` and hitting the green run button in VSCode.
 
-I've also included some existing games for you try in the `user_examples` folder.
+I've also included some existing games for you try in the `user_examples` folder and some 'getting started' examples in the `learn` folder.
+
+You can also learn more by reading through the presentation slides produced by the author of Pyxel (in the `presentation_examples` folder).
 
 
 
